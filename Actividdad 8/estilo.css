@@ -1,0 +1,15 @@
+.botonsito1 { 
+    background-color: rgb(255, 251, 0);
+    padding: 10px;
+    border: 3px solid rgb(4, 0, 255);
+    }
+
+.botonsito2 { 
+        background-color: rgb(0, 224, 253);
+        padding: 10px;
+        border: 3px solid rgb(255, 0, 200);
+        }
+        
+.hidden {
+    opacity: 0.3;
+}
